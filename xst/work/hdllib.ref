@@ -1,0 +1,17 @@
+MO Data_memory NULL Data_memory.v vlg2A/_data__memory.bin 1667991899
+MO adder_4bit NULL adder_4bit.v vlg4A/adder__4bit.bin 1667991899
+MO adder_1bit NULL adder_1bit.v vlg53/adder__1bit.bin 1667991899
+MO Instruction_memory_block NULL ipcore_dir/Instruction_memory_block.v vlg2C/_instruction__memory__block.bin 1667991899
+MO CONTROLLER NULL CONTROLLER.v vlg14/_c_o_n_t_r_o_l_l_e_r.bin 1667991899
+MO ALU_controller NULL ALU_controller.v vlg7D/_a_l_u__controller.bin 1667991899
+MO clk_divider NULL clk_divider.v vlg70/clk__divider.bin 1667991899
+MO adder_32bit NULL adder_32bit.v vlg1F/adder__32bit.bin 1667991899
+MO PC_combinational_unit NULL PC_combinational_unit.v vlg49/_p_c__combinational__unit.bin 1667991899
+MO adder_16bit NULL adder_16bit.v vlg31/adder__16bit.bin 1667991899
+MO PC_unit NULL PC_unit.v vlg7E/_p_c__unit.bin 1667991899
+MO diff NULL diff.v vlg79/diff.bin 1667991899
+MO reg_file NULL reg_file.v vlg69/reg__file.bin 1667991899
+MO Instruction_memory NULL Instruction_memory.v vlg42/_instruction__memory.bin 1667991899
+MO Data_memory_block NULL ipcore_dir/Data_memory_block.v vlg54/_data__memory__block.bin 1667991899
+MO ALU NULL ALU.v vlg2A/_a_l_u.bin 1667991899
+MO RISCy_CPU NULL RISCy_CPU.v vlg6D/_r_i_s_cy___c_p_u.bin 1667991899
