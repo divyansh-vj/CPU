@@ -1,0 +1,17 @@
+# Output products list for <Data_memory_block>
+Data_memory_block/blk_mem_gen_v7_3_readme.txt
+Data_memory_block/doc/blk_mem_gen_v7_3_vinfo.html
+Data_memory_block/doc/pg058-blk-mem-gen.pdf
+Data_memory_block.asy
+Data_memory_block.gise
+Data_memory_block.mif
+Data_memory_block.ngc
+Data_memory_block.sym
+Data_memory_block.v
+Data_memory_block.veo
+Data_memory_block.xco
+Data_memory_block.xise
+Data_memory_block_flist.txt
+Data_memory_block_xmdf.tcl
+_xmsgs/pn_parser.xmsgs
+summary.log
