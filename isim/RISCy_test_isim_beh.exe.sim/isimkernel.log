@@ -1,0 +1,28 @@
+Command line:
+   RISCy_test_isim_beh.exe
+     -simmode  gui
+     -simrunnum  0
+     -socket  52537
+
+Wed Nov 09 16:39:45 2022
+
+
+ Elaboration Time: 0.21875 sec
+
+ Current Memory Usage: 5163.07 Meg
+
+ Total Signals          : 1564
+ Total Nets             : 2911
+ Total Signal Drivers   : 943
+ Total Blocks           : 176
+ Total Primitive Blocks : 131
+ Total Processes        : 978
+ Total Traceable Variables  : 679
+ Total Scalar Nets and Variables : 114717
+
+ Total Simulation Time: 0.296875 sec
+
+ Current Memory Usage: 5005.78 Meg
+
+Wed Nov 09 16:41:32 2022
+
