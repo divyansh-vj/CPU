@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -lib "unisims_ver" -lib "unimacro_ver" -lib "xilinxcorelib_ver" -o "C:/Users/Student/Downloads/ultimate/CPU_grp21/RISCy_test_isim_beh.exe" -prj "C:/Users/Student/Downloads/ultimate/CPU_grp21/RISCy_test_beh.prj" "work.RISCy_test" "work.glbl" 

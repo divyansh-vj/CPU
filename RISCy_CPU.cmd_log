@@ -1,0 +1,51 @@
+xst -intstyle ise -ifn "/home/shashwat/Documents/COA LAB/CPU_grp21/RISCy_CPU.xst" -ofn "/home/shashwat/Documents/COA LAB/CPU_grp21/RISCy_CPU.syr" 
+xst -intstyle ise -ifn "/home/shashwat/Documents/COA LAB/CPU_grp21/RISCy_CPU.xst" -ofn "/home/shashwat/Documents/COA LAB/CPU_grp21/RISCy_CPU.syr" 
+xst -intstyle ise -ifn "/home/shashwat/Documents/COA LAB/CPU_grp21/RISCy_CPU.xst" -ofn "/home/shashwat/Documents/COA LAB/CPU_grp21/RISCy_CPU.syr" 
+xst -intstyle ise -ifn "/home/shashwat/Documents/COA LAB/CPU_grp21/RISCy_CPU.xst" -ofn "/home/shashwat/Documents/COA LAB/CPU_grp21/RISCy_CPU.syr" 
+xst -intstyle ise -ifn "/home/shashwat/Documents/COA LAB/CPU_grp21/RISCy_CPU.xst" -ofn "/home/shashwat/Documents/COA LAB/CPU_grp21/RISCy_CPU.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -i -bm RISCy_test.bmm -p xc3s50-pq208-4 "RISCy_CPU.ngc" RISCy_CPU.ngd  
+map -intstyle ise -p xc3s50-pq208-4 -cm area -ir off -pr off -c 100 -o RISCy_CPU_map.ncd RISCy_CPU.ngd RISCy_CPU.pcf 
+xst -intstyle ise -ifn "/home/shashwat/Documents/COA LAB/CPU_grp21/RISCy_CPU.xst" -ofn "/home/shashwat/Documents/COA LAB/CPU_grp21/RISCy_CPU.syr" 
+xst -intstyle ise -ifn "/home/shashwat/Documents/COA LAB/CPU_grp21/RISCy_CPU.xst" -ofn "/home/shashwat/Documents/COA LAB/CPU_grp21/RISCy_CPU.syr" 
+xst -intstyle ise -ifn "/home/shashwat/Documents/COA LAB/CPU_grp21/RISCy_CPU.xst" -ofn "/home/shashwat/Documents/COA LAB/CPU_grp21/RISCy_CPU.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -i -bm RISCy_test.bmm -p xc3s50-pq208-4 "RISCy_CPU.ngc" RISCy_CPU.ngd  
+map -intstyle ise -p xc3s50-pq208-4 -cm area -ir off -pr off -u -c 100 -o RISCy_CPU_map.ncd RISCy_CPU.ngd RISCy_CPU.pcf 
+par -w -intstyle ise -ol high -t 1 RISCy_CPU_map.ncd RISCy_CPU.ncd RISCy_CPU.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml RISCy_CPU.twx RISCy_CPU.ncd -o RISCy_CPU.twr RISCy_CPU.pcf 
+xst -intstyle ise -ifn "/home/shashwat/Documents/COA LAB/CPU_grp21/RISCy_CPU.xst" -ofn "/home/shashwat/Documents/COA LAB/CPU_grp21/RISCy_CPU.syr" 
+xst -intstyle ise -ifn "/home/shashwat/Documents/COA LAB/CPU_grp21/RISCy_CPU.xst" -ofn "/home/shashwat/Documents/COA LAB/CPU_grp21/RISCy_CPU.syr" 
+xst -intstyle ise -ifn "/home/shashwat/Documents/COA LAB/CPU_grp21/RISCy_CPU.xst" -ofn "/home/shashwat/Documents/COA LAB/CPU_grp21/RISCy_CPU.syr" 
+xst -intstyle ise -ifn "/home/shashwat/Documents/COA LAB/CPU_grp21/RISCy_CPU.xst" -ofn "/home/shashwat/Documents/COA LAB/CPU_grp21/RISCy_CPU.syr" 
+xst -intstyle ise -ifn "/home/shashwat/Documents/COA LAB/CPU_grp21/RISCy_CPU.xst" -ofn "/home/shashwat/Documents/COA LAB/CPU_grp21/RISCy_CPU.syr" 
+xst -intstyle ise -ifn "/home/shashwat/Documents/COA LAB/CPU_grp21/RISCy_CPU.xst" -ofn "/home/shashwat/Documents/COA LAB/CPU_grp21/RISCy_CPU.syr" 
+xst -intstyle ise -ifn "/home/shashwat/Documents/COA LAB/CPU_grp21/RISCy_CPU.xst" -ofn "/home/shashwat/Documents/COA LAB/CPU_grp21/RISCy_CPU.syr" 
+xst -intstyle ise -ifn "/home/shashwat/Documents/COA LAB/CPU_grp21/RISCy_CPU.xst" -ofn "/home/shashwat/Documents/COA LAB/CPU_grp21/RISCy_CPU.syr" 
+xst -intstyle ise -ifn "/home/shashwat/Documents/COA LAB/CPU_grp21/RISCy_CPU.xst" -ofn "/home/shashwat/Documents/COA LAB/CPU_grp21/RISCy_CPU.syr" 
+xst -intstyle ise -ifn "/home/shashwat/Documents/COA LAB/CPU_grp21/RISCy_CPU.xst" -ofn "/home/shashwat/Documents/COA LAB/CPU_grp21/RISCy_CPU.syr" 
+xst -intstyle ise -ifn "/home/shashwat/Documents/COA LAB/CPU_grp21/RISCy_CPU.xst" -ofn "/home/shashwat/Documents/COA LAB/CPU_grp21/RISCy_CPU.syr" 
+xst -intstyle ise -ifn "/home/shashwat/Documents/COA LAB/CPU_grp21/RISCy_CPU.xst" -ofn "/home/shashwat/Documents/COA LAB/CPU_grp21/RISCy_CPU.syr" 
+xst -intstyle ise -ifn "/home/shashwat/Documents/COA LAB/CPU_grp21/RISCy_CPU.xst" -ofn "/home/shashwat/Documents/COA LAB/CPU_grp21/RISCy_CPU.syr" 
+xst -intstyle ise -ifn "/home/shashwat/Documents/COA LAB/CPU_grp21/RISCy_CPU.xst" -ofn "/home/shashwat/Documents/COA LAB/CPU_grp21/RISCy_CPU.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -i -bm RISCy_test.bmm -p xc3s50-pq208-4 "RISCy_CPU.ngc" RISCy_CPU.ngd  
+map -intstyle ise -p xc3s50-pq208-4 -cm area -ir off -pr off -u -c 100 -o RISCy_CPU_map.ncd RISCy_CPU.ngd RISCy_CPU.pcf 
+xst -intstyle ise -ifn "/home/shashwat/Documents/COA LAB/CPU_grp21/RISCy_CPU.xst" -ofn "/home/shashwat/Documents/COA LAB/CPU_grp21/RISCy_CPU.syr" 
+xst -intstyle ise -ifn "/home/shashwat/Documents/COA LAB/CPU_grp21/RISCy_CPU.xst" -ofn "/home/shashwat/Documents/COA LAB/CPU_grp21/RISCy_CPU.syr" 
+xst -intstyle ise -ifn "/home/shashwat/Documents/COA LAB/CPU_grp21/RISCy_CPU.xst" -ofn "/home/shashwat/Documents/COA LAB/CPU_grp21/RISCy_CPU.syr" 
+xst -intstyle ise -ifn "/home/shashwat/Documents/COA LAB/CPU_grp21/RISCy_CPU.xst" -ofn "/home/shashwat/Documents/COA LAB/CPU_grp21/RISCy_CPU.syr" 
+xst -intstyle ise -ifn "/home/shashwat/Documents/COA LAB/CPU_grp21/RISCy_CPU.xst" -ofn "/home/shashwat/Documents/COA LAB/CPU_grp21/RISCy_CPU.syr" 
+xst -intstyle ise -ifn "/home/shashwat/Documents/COA LAB/CPU_grp21/RISCy_CPU.xst" -ofn "/home/shashwat/Documents/COA LAB/CPU_grp21/RISCy_CPU.syr" 
+xst -intstyle ise -ifn "C:/Users/Student/Downloads/ultimate/CPU_grp21/RISCy_CPU.xst" -ofn "C:/Users/Student/Downloads/ultimate/CPU_grp21/RISCy_CPU.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc timing.ucf -bm RISCy_test.bmm -p xc3s50-pq208-4 RISCy_CPU.ngc RISCy_CPU.ngd  
+map -intstyle ise -p xc3s50-pq208-4 -cm area -ir off -pr off -u -c 100 -o RISCy_CPU_map.ncd RISCy_CPU.ngd RISCy_CPU.pcf 
+xst -intstyle ise -ifn "C:/Users/Student/Downloads/ultimate/CPU_grp21/RISCy_CPU.xst" -ofn "C:/Users/Student/Downloads/ultimate/CPU_grp21/RISCy_CPU.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc timing.ucf -bm RISCy_test.bmm -p xc3s400-pq208-4 RISCy_CPU.ngc RISCy_CPU.ngd  
+map -intstyle ise -p xc3s400-pq208-4 -cm area -ir off -pr off -u -c 100 -o RISCy_CPU_map.ncd RISCy_CPU.ngd RISCy_CPU.pcf 
+par -w -intstyle ise -ol high -t 1 RISCy_CPU_map.ncd RISCy_CPU.ncd RISCy_CPU.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml RISCy_CPU.twx RISCy_CPU.ncd -o RISCy_CPU.twr RISCy_CPU.pcf -ucf timing.ucf 
+bitgen -intstyle ise -f RISCy_CPU.ut RISCy_CPU.ncd 
+xst -intstyle ise -ifn "C:/Users/Student/Downloads/ultimate/CPU_grp21/RISCy_CPU.xst" -ofn "C:/Users/Student/Downloads/ultimate/CPU_grp21/RISCy_CPU.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc timing.ucf -bm RISCy_test.bmm -p xc3s400-pq208-4 RISCy_CPU.ngc RISCy_CPU.ngd  
+map -intstyle ise -p xc3s400-pq208-4 -cm area -ir off -pr off -u -c 100 -o RISCy_CPU_map.ncd RISCy_CPU.ngd RISCy_CPU.pcf 
+par -w -intstyle ise -ol high -t 1 RISCy_CPU_map.ncd RISCy_CPU.ncd RISCy_CPU.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml RISCy_CPU.twx RISCy_CPU.ncd -o RISCy_CPU.twr RISCy_CPU.pcf -ucf timing.ucf 
+bitgen -intstyle ise -f RISCy_CPU.ut RISCy_CPU.ncd 

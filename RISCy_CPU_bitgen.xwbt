@@ -1,0 +1,8 @@
+INTSTYLE=ise
+INFILE=C:\Users\Student\Downloads\ultimate\CPU_grp21\RISCy_CPU.ncd
+OUTFILE=C:\Users\Student\Downloads\ultimate\CPU_grp21\RISCy_CPU.bit
+FAMILY=Spartan3
+PART=xc3s400-4pq208
+WORKINGDIR=C:\Users\Student\Downloads\ultimate\CPU_grp21
+LICENSE=WebPack
+USER_INFO=__0_0_0
